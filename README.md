@@ -20,7 +20,7 @@
 
 ## Skill Set:
 
-<table><tr><td valign="top">
+<table width="100%"><tr><td valign="top" width="50%">
         
 ### Languages
 <a href="https://github.com/tayyabadev">
@@ -29,7 +29,7 @@
 </div>
 </a>
 
-</td><td valign="top">
+</td><td valign="top" width="50%">
   
 ### Others
 <a href="https://github.com/tayyabadev">
