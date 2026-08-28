@@ -25,7 +25,7 @@
 ### Languages
 <a href="https://github.com/amsacul">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,java,python,postgres,ts,latex,bash,&perline=6" /> 
+       <img src="https://skillicons.dev/icons?i=c,js,java,python,postgres,ts,latex,bash&perline=6" /> 
 </div>
 </a>
 
@@ -34,7 +34,7 @@
 ### Others
 <a href="https://github.com/amsacul">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,&perline=6" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode&perline=6" /> 
 </div>
 </a>
 </td>
