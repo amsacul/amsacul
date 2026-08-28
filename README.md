@@ -25,7 +25,7 @@
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts,&perline=6" /> 
+       <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts&perline=6" /> 
 </div>
 </a>
 
