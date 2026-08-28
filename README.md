@@ -23,7 +23,7 @@
 <table width="100%"><tr><td valign="top" width="50%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/amsacul">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts&perline=6" /> 
 </div>
@@ -32,7 +32,7 @@
 </td><td valign="top" width="50%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/amsacul">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,&perline=6" /> 
 </div>
