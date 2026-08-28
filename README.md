@@ -20,21 +20,21 @@
 
 ## Skill Set:
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="25%">
         
 ### Languages
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts,&perline=6" /> 
 </div>
 </a>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="25%">
   
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,&perline=6" /> 
 </div>
 </a>
 </td>
