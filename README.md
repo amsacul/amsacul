@@ -1,66 +1,85 @@
-<h1 align="center">Hi there, I'm Amsacul 👋</h1>
+# Hi, I'm Lucas Ma 
 
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
+## About Me:
+
+- Adv. Comp Sci student at UNSW
+
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,java,python,sql,shell,ts,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+ ## Github Stats:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;C+%7C+Java+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
-
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amsacul&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  <a href="https://github.com/tayyabadev">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
 </p>
 
----
 
-### 🚀 About Me
+ <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
-- 🔭 Currently working on interesting projects with C, Java & Python
-- 🌱 Leveling up my JavaScript and SQL skills
-- 💻 Comfortable in the shell — scripting things to make life easier
-- ⚡ Fun fact: I like clean code and cooler READMEs
+<br>
 
----
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabadev" alt="tayyabadev" /></a> </p>
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### 🛠️ Tech Stack
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,py,js,bash,mysql" alt="tech stack icons" />
-</p>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
----
+#
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amsacul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsacul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amsacul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amsacul/amsacul/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/amsacul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<!-- <div align="center">
+  <a href="https://github.com/tayyabadev">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
-</p>
+ </div> -->
 
-<!--
-Add more badges above as you like — LinkedIn, Twitter/X, personal site, etc:
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
--->
 
----
-
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
